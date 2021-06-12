@@ -28,7 +28,5 @@ public class Official extends UserApp {
     public void setName(String name) {
         this.name = name;
     }
-    public void funcion(){}
-
 
 }
